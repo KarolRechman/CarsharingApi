@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNIvK3PMGaKNNfpe3YYVvljkHhUDwMv6ad4p9773sjyVonY3SALZ8IcVeLImzcEycVD9z0t6/vAScP0UFUQe6Q==",
+  "success": true,
+  "projectFilePath": "C:\\CarsharingApi\\CarsharingApi\\CarsharingApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
