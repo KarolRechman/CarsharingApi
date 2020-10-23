@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CarsharingApi\\CarsharingApi\\CarsharingApi.csproj": {}
+    "C:\\CarsharingApi\\CarsharingApi.csproj": {}
   },
   "projects": {
-    "C:\\CarsharingApi\\CarsharingApi\\CarsharingApi.csproj": {
+    "C:\\CarsharingApi\\CarsharingApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CarsharingApi\\CarsharingApi\\CarsharingApi.csproj",
+        "projectUniqueName": "C:\\CarsharingApi\\CarsharingApi.csproj",
         "projectName": "CarsharingApi",
-        "projectPath": "C:\\CarsharingApi\\CarsharingApi\\CarsharingApi.csproj",
+        "projectPath": "C:\\CarsharingApi\\CarsharingApi.csproj",
         "packagesPath": "C:\\Users\\k\\.nuget\\packages\\",
-        "outputPath": "C:\\CarsharingApi\\CarsharingApi\\obj\\",
+        "outputPath": "C:\\CarsharingApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,9 +42,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.9, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
             }
           },
           "imports": [
